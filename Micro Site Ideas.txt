@@ -1,8 +1,10 @@
+• MICRO SITE HOMEPAGE!
+
 • A fake online bookstore
 Covers, categories, grid layout.
 
-• A tiny artist portfolio
-Three images, bio card, contact button.
+• "10 questions to know if you're an asshole"
+10 questions followed by an answer to find out if you're an asshole.
 
 • A restaurant menu page
 Typography practice heaven.
